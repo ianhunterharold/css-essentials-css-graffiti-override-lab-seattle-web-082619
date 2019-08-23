@@ -6,3 +6,6 @@
 #wall[.tag]{
   display:none;
 }
+#wall[#tag]{
+  display:none;
+}
