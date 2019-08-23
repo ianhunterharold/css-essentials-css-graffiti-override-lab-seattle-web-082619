@@ -9,4 +9,6 @@
 #wall #tag-3{
   display:none;
 }
-.parent >
+.parent > #tag-5{
+  display:none;
+}
