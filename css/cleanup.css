@@ -3,9 +3,9 @@
   display:none;
 }
 
-#wall[.tag]{
+  #wall[.tag] {
   display:none;
 }
-#wall[#tag]{
+  #wall[#tag]{
   display:none;
 }
